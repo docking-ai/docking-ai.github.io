@@ -104,4 +104,4 @@ dist
 .tern-port
 
 # vendor for ruby
-vendor/
+#vendor/
