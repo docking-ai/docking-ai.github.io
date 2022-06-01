@@ -1,0 +1,12 @@
+title: docking.ai
+email: dockingai888@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+  docking.ai AI docking
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://docking.ai" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: dockingai
+github_username: docking-ai
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
